@@ -68,7 +68,7 @@ Welcome to the **Core Java Practical Labs** repository for the course CSIT725. T
    a) Sum of all Elements
    b) Print the data in matrix form
    c) print the element of principal diagonal
-   d) print the sum of elements in Pricipal diagonal
+   d) print the sum of elements in Principal diagonal  
    [![View Solution](https://img.shields.io/badge/View-Solution-brightgreen)](https://github.com/121omprakash/Core_Java/blob/main/Lab%202/Post_Lab/Post_Lab_2_Matrix.java)
 
 ---
@@ -92,6 +92,54 @@ Welcome to the **Core Java Practical Labs** repository for the course CSIT725. T
 ### Post-Lab Tasks
 1. **Develop a simple calculator to perform basic arithmetic operations using a GUI**  
    [![View Solution](https://img.shields.io/badge/View-Solution-brightgreen)](https://github.com/121omprakash/Core_Java/blob/main/Lab%203/Post_Lab/Post_Lab_1_Calculator.java)
+
+---
+
+## Lab 4: Constructors and Overloading
+
+### Pre-Lab Tasks
+1. **Write a program to demonstrate constructor overloading with at least three constructors(MyInteger class which checks odd,even,prime)**  
+   [![View Solution](https://img.shields.io/badge/View-Solution-brightgreen)](https://github.com/121omprakash/Core_Java/blob/main/Lab%204/Pre_Lab/Q1_MyInteger.java)
+
+2. **Explain the differences between default and parameterized constructors in a class(Adding Factorial Method in MyInteger class)**  
+   [![View Solution](https://img.shields.io/badge/View-Solution-brightgreen)](https://github.com/121omprakash/Core_Java/blob/main/Lab%204/Pre_Lab/Q2_MyInteger_Factorial.java)
+
+### In-Lab Tasks
+1. **Write a program to implement constructor chaining within a class(Account Class)**  
+   [![View Solution](https://img.shields.io/badge/View-Solution-brightgreen)](https://github.com/121omprakash/Core_Java/blob/main/Lab%204/In_Lab/Q1_Account.java)
+
+2. **Demonstrate constructor overloading in inheritance with base and derived class(MyPoint Class)**  
+   [![View Solution](https://img.shields.io/badge/View-Solution-brightgreen)](https://github.com/121omprakash/Core_Java/blob/main/Lab%204/In_Lab/Q2_MyPoint.java)
+
+### Post-LabHere’s the continuation of the updated **README.md** file with **Lab 4** and **Lab 5** added:
+
+
+### Post-Lab Tasks
+1. **Write a reflection on the use of constructor overloading in Java, and when to use it effectively(ATM class)**  
+   [![View Solution](https://img.shields.io/badge/View-Solution-brightgreen)](https://github.com/121omprakash/Core_Java/blob/main/Lab%204/Post_Lab/Q1_ATM.java)
+2. **StackOfInteger Class**
+   [![View Solution](https://img.shields.io/badge/View-Solution-brightgreen)](https://github.com/121omprakash/Core_Java/blob/main/Lab%204/Post_Lab/Q2_Stack.java)
+---
+
+## Lab 5: Objects as Data Members
+
+### Pre-Lab Tasks
+1. **StopWach class**  
+   [![View Solution](https://img.shields.io/badge/View-Solution-brightgreen)](https://github.com/121omprakash/Core_Java/blob/main/Lab%205/Pre_Lab/Q1_stopWatch.java)
+```md
+2. **Explain the use of objects as data members in classes. Provide examples**  
+   [![View Solution](https://img.shields.io/badge/View-Solution-brightgreen)](https://github.com/121omprakash/Core_Java/blob/main/Lab%205/Pre_Lab/Pre_Lab_2_Object_Data_Member_Theory.md)
+
+### In-Lab Tasks
+1. **Write a program to implement composition, using a `Department` class as a data member of an `Employee` class**  
+   [![View Solution](https://img.shields.io/badge/View-Solution-brightgreen)](https://github.com/121omprakash/Core_Java/blob/main/Lab%205/In_Lab/In_Lab_1_Composition.java)
+
+2. **Modify the program to include `Address` as a data member in the `Employee` class and demonstrate how composition works**  
+   [![View Solution](https://img.shields.io/badge/View-Solution-brightgreen)](https://github.com/121omprakash/Core_Java/blob/main/Lab%205/In_Lab/In_Lab_2_Address_Employee_Composition.java)
+
+### Post-Lab Tasks
+1. **Write a reflection on how composition enhances the design of object-oriented systems**  
+   [![View Solution](https://img.shields.io/badge/View-Solution-brightgreen)](https://github.com/121omprakash/Core_Java/blob/main/Lab%205/Post_Lab/Post_Lab_1_Composition_Reflection.md)
 
 ---
 
