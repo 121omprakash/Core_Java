@@ -4,7 +4,7 @@ public class Q2_MyInteger_Factorial
 {
 
     int value;
-    Q1_MyInteger(int a)
+    Q2_MyInteger_Factorial(int a)
     {
         this.value = a;
     }
@@ -67,16 +67,16 @@ public class Q2_MyInteger_Factorial
             return true;
         }
     }
-    public static boolean isEven(Q1_MyInteger m)
+    public static boolean isEven(Q2_MyInteger_Factorial m)
     {
         return (m.value%2==0);
     }
-    public static boolean isOdd(Q1_MyInteger m)
+    public static boolean isOdd(Q2_MyInteger_Factorial m)
     {
         return (m.value%2!=0);
     }
 
-    public static boolean isPrime(Q1_MyInteger m)
+    public static boolean isPrime(Q2_MyInteger_Factorial m)
     {
         int i =2;
         if(m.value<2)
@@ -112,7 +112,7 @@ public class Q2_MyInteger_Factorial
         int res = 0;
         for(int i =0;i<chr.length;i++)
         {
-            int n = str.chr[i] - '0';
+            int n = chr[i] - '0';
             res = (res*10)+n;
         }
         return res;

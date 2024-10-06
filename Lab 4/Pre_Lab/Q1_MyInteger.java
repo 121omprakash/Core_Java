@@ -109,7 +109,7 @@ public class Q1_MyInteger {
         int res = 0;
         for(int i =0;i<chr.length;i++)
         {
-            int n = str.chr[i] - '0';
+            int n = chr[i] - '0';
             res = (res*10)+n;
         }
         return res;
